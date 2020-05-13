@@ -1,21 +1,14 @@
 {
-  "name": "store",
-  "version": "1.3.20",
+  "name": "@head.js/analytics.js-store",
+  "version": "1.3.20-1",
   "description": "A localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood",
   "main": "src/store.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/marcuswestin/store.js.git"
-  },
-  "author": "Marcus Westin <narcvs@gmail.com>",
+  "repository": "git://github.com/nice-fungal/analytics.js-store.git",
+  "author": "Marcus Westin <narcvs@gmail.com>, hbrls<shuaizhexu@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "http://github.com/marcuswestin/store.js/issues"
-  },
-  "homepage": "https://github.com/marcuswestin/store.js#readme",
   "devDependencies": {
     "budo": "^7.1.0",
     "lodash": "^3.10.1",
